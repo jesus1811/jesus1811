@@ -1,6 +1,6 @@
 <h4> Hello World! I am Jesus Ayarza <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
-Soy FRONT END DEVELOPER con 6 meses de experiencia en trabajo Remoto y en trabajo en equipo SCRUM especializandome en REACT JS y MAQUETACION ADAPATABLE
+Soy FRONT END DEVELOPER con 6 meses de experiencia en trabajo Remoto SCRUM especializandome en REACT JS y MAQUETACION ADAPATABLE
 
 ---
 
