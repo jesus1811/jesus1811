@@ -4,8 +4,6 @@ Soy FRONT END DEVELOPER con 6 meses de experiencia en trabajo Remoto SCRUM espec
 
 ---
 
-  ***
-
 **Languages and Tools:**
 
 <p align="center">
