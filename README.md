@@ -1,6 +1,6 @@
-<h4> Hello Wordl I am Jesus Ayarza <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
+<h4> Hello World! I am Jesus Ayarza <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
-I'm [Anushka Verma](https://verma-anushka.github.io/anushkaverma/), I'm an experienced full stack web developer and technical writer a demonstrated history of working in the information technology and services industry.
+(https://verma-anushka.github.io/anushkaverma/), Soy FRONT END DEVELOPER con 6 meses de experiencia, especializado en REACT JS y la maquetacion responsive
 
 ---
 
