@@ -17,16 +17,6 @@ Soy FRONT END DEVELOPER con 6 meses de experiencia en trabajo Remoto SCRUM espec
 
 ---
 
-**Github Stats:**
-
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=verma-anushka&hide=stars&show_icons=true&theme=dracula&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verma-anushka&count_private=true&theme=dracula">
-
-</p>
-
----
 
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
