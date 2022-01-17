@@ -4,14 +4,6 @@ Soy FRONT END DEVELOPER con 6 meses de experiencia en trabajo Remoto SCRUM espec
 
 ---
 
-- <div>
-     <img width="250" height="100" align='right' src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/images/gfg.png" >
-     ... as a <strong>Technical Content Writer</strong> intern at Geeks for Geeks where I have penned down 20+ comprehensive and detailed articles covering multiple programming languages and Data Structures & Algorithms concepts.
-     <br />
-     <strong>View: </strong> <a href="https://auth.geeksforgeeks.org/user/verma_anushka/articles" >Geeks for Geeks</a> 
-     <br /> 
-   </div>
-
   ***
 
 **Languages and Tools:**
