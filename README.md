@@ -22,7 +22,7 @@ Soy Front End Developer con 6 meses de experiencia, especializado en React JS y 
   <i>Let's connect and chat! Find me on the web...</i>
   
    
-   [![Linkedin Badge](https://img.shields.io/badge/-anushkaverma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushkaverma/)](https://www.linkedin.com/in/jesus-ayarza-barreno-8b8212217) 
+   [![Linkedin Badge](https://jesus1811.github.io/recursosPortafolio/linkedin.svg)](https://www.linkedin.com/in/jesus-ayarza-barreno-8b8212217) 
    [![Facebook Badge](https://img.shields.io/badge/-verma_anushka-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100022118525351)](https://www.facebook.com/profile.php?id=100022118525351)
    
 
