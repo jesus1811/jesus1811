@@ -71,10 +71,10 @@
 
 </p>
 
-### - Blogs 🌱
+### - Web Personal 🌱
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
+<img src="https://jesus-ayarza.netlify.app/"> 
 </p>
 
 ### - Podcast ⚡️
@@ -87,6 +87,3 @@
 
 #### Thank You-🙏🏼
 
-
-
-⭐️ From [8bithemant](https://github.com/8bithemant)
