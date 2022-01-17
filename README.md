@@ -1,6 +1,6 @@
-<h4> Hello World! I am Jesus Ayarza <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
+<h4> HELLO WORLD I AM JESUS AYARZA <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
-Soy FRONT END DEVELOPER con 6 meses de experiencia en trabajo Remoto SCRUM especializandome en REACT JS y MAQUETACION ADAPATABLE
+Soy Front End Developer con 6 meses de experiencia, especializado en React JS y la maquetacion responsive
 
 ---
 
@@ -22,7 +22,7 @@ Soy FRONT END DEVELOPER con 6 meses de experiencia en trabajo Remoto SCRUM espec
   <i>Let's connect and chat! Find me on the web...</i>
   
    
-   [![Linkedin Badge](https://img.shields.io/badge/-anushkaverma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushkaverma/)](https://www.linkedin.com/in/anushkaverma/) 
+   [![Linkedin Badge](https://img.shields.io/badge/-anushkaverma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushkaverma/)](https://www.linkedin.com/in/jesus-ayarza-barreno-8b8212217) 
    [![Facebook Badge](https://img.shields.io/badge/-verma_anushka-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100022118525351)](https://www.facebook.com/profile.php?id=100022118525351)
    
 
