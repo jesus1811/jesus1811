@@ -1,8 +1,8 @@
 <h4> HELLO WORLD!! I AM JESUS AYARZA <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
-Soy Front End Developer
+<h2>Soy Front End Developer
             especializandome en React JS y la maquetacion responsive, tengo 6
-            meses de experiencia en trabajo remoto usando la metodologia Scrum.n
+            meses de experiencia en trabajo remoto usando la metodologia Scrum</h2>
 ---
 
 **Tegnologias:**
