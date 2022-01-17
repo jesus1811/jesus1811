@@ -1,4 +1,4 @@
-<h4> HELLO WORLD I AM JESUS AYARZA <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
+<h4> HELLO WORLD!! I AM JESUS AYARZA <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
 Soy Front End Developer con 6 meses de experiencia, especializado en React JS y la maquetacion responsive
 
