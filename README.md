@@ -1,15 +1,20 @@
+![head.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-top.png)
+
+Hi there, thanks for stopping by, this is **Charles Zhang**.
+
+<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
 ```javascript
-const charles = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "tech", "game"],
-    technologies: {
+const JesuDev = {
+    roles: ["front-end developer", "back-end developer", "freelance"],
+    skills: {
         frontEnd: {
-            js: ["Vue", "React", "Angular"],
-            css: ["bootstrap", "sass"]
+            js: ["Vanilla", "NextJS", "ReactJS"],
+            css: ["Sass","TailwindCSS"],
         },
-        backEnd: ["Java", "PHP"],
-        databases: ["MySql", "oracle"],
+        backEnd: ["NodeJS", "Express"],
+        databases: ["MySql"],
+        others:["Git","Yarn","NPM","TypeScript]
     }
 };
 ```
