@@ -1,7 +1,3 @@
-![head.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-top.png)
-
-Hi there, thanks for stopping by, this is **Charles Zhang**.
-
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
 ```javascript
