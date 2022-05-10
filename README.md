@@ -9,8 +9,8 @@ const JesuDev = {
             css: ["Sass","TailwindCSS"],
         },
         backEnd: ["NodeJS", "Express"],
-        databases: ["MySql"],
-        others:["Git","Yarn","NPM","TypeScript]
+        databases: ["MySql","SqlServer"],
+        others:["Git","Yarn","NPM","TypeScript"],
     }
 };
 
