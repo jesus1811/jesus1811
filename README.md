@@ -6,7 +6,7 @@ const JesuDev = {
     skills: {
         frontEnd: {
             js: ["Vanilla", "NextJS", "ReactJS"],
-            css: ["Sass","TailwindCSS"],
+            css: ["Sass","TailwindCSS","Styled-components"],
         },
         backEnd: ["NodeJS", "Express"],
         databases: ["MySql","SqlServer"],
