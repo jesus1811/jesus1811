@@ -6,12 +6,12 @@ const JesuDev = {
     skills: {
         frontEnd: {
             js: ["Vanilla", "NextJS", "ReactJS"],
-            css: ["Sass","TailwindCSS","Styled-components","MaterialUI"],
-            tools: ["Redux","MaterialUI"]
+            css: ["Sass", "TailwindCSS", "Styled-components", "MaterialUI"],
+            tools: ["Redux", "MaterialUI"]
         },
-        backEnd: ["NodeJS", "Express","jsonwebtoken"],
-        databases: ["MySQL","SQLServer","PostgreSQL"],
-        others:["Git","Yarn","NPM","TypeScript"],
+        backEnd: ["NodeJS", "Express", "jsonwebtoken"],
+        databases: ["MySQL", "SQLServer", "PostgreSQL"],
+        others:["Git", "Yarn", "NPM", "TypeScript"],
     }
 };
 
