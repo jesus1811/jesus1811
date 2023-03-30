@@ -2,7 +2,7 @@
 
 ```javascript
 const JesuDev = {
-    roles: ["front-end developer", "back-end developer", "freelance"],
+    roles: ["front-end developer", "freelance"],
     skills: {
         frontEnd: {
             js: ["Vanilla", "NextJS", "ReactJS"],
